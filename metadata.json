@@ -1,0 +1,6 @@
+{
+  "name": "NovaWear",
+  "description": "NovaWear is a premium, modern fashion marketplace for ages 16-35 featuring a curated clothing catalog, real-time filters, and an AI Stylist assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
